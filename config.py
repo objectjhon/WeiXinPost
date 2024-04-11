@@ -1,18 +1,18 @@
 # 公众号配置
 # 公众号appId
-app_id = "wx******************"
+app_id = "wxff8af097e8d8f0e8"
 # 公众号appSecret
-app_secret = "f9a80260d33******************"
+app_secret = "82d9cbe937cff8ff14a43be722af3b30"
 # 模板消息id
 # 每日消息
-template_id1 = "wX-************************************"
+template_id1 = "rg9lZbT8GQYUg1ZAZ7e75jmKOtXBbYPBXd0nFgH-xgg"
 # 课程消息,上课提醒
-template_id2 = "loe1yHWr************************************"
+template_id2 = "GOtkUf8DtIH3YrQ-EGT36058wTcPSw2F9LypI-wLses"
 # 晚安心语
-template_id3 = "-fun9-2************************************"
+template_id3 = "qrntW1U935qrRawB2uuhj8HjcT-YyN4e_DcmzDo0XkA"
 # 接收公众号消息的微信号
 # 这是openid
-user = ["ojhdR50T******************"]
+user = ["oEvMq6p0jYyzwbpS2SMRdJXbcIpM"]
 
 # 信息配置
 # 所在省份
